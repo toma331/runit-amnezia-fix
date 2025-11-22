@@ -1,0 +1,5 @@
+#!/bin/sh
+
+export LD_LIBRARY_PATH=/opt/AmneziaVPN/client/lib
+
+exec chpst -u root /opt/AmneziaVPN/service/AmneziaVPN-service.sh
