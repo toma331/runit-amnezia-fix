@@ -11,5 +11,6 @@ check the script before executing
 and execute:
 ```bash
 git clone https://github.com/toma331/runit-amnezia-fix
+cd runit-amnezia-fix
 sudo ./setup.sh
 ```
