@@ -9,9 +9,7 @@ We create a run script in /etc/sv/amnezia/run, and create a symlink to /var/serv
 check the script before executing
 
 and execute:
-'''bash
+```bash
 git clone https://github.com/toma331/runit-amnezia-fix
-
 sudo ./setup.sh
-
-'''
+```
