@@ -13,4 +13,5 @@ and execute:
 git clone https://github.com/toma331/runit-amnezia-fix
 cd runit-amnezia-fix
 sudo ./setup.sh
+sudo reboot
 ```
